@@ -109,6 +109,29 @@ img {
   font-weight: 700;
 }
 
+/* **************************************************** */
+/* Adding links to the needed pages, here's their style */
+/* **************************************************** */
+.masthead .masthead-content a {
+  text-decoration: none;
+}
+
+.masthead .masthead-content a:link {
+  color: #d82544;
+}
+
+.masthead .masthead-content a:visited {
+  color: #d82544;
+}
+
+.masthead .masthead-content a:hover {
+  color: #711a2a;
+}
+
+.masthead .masthead-content a:active {
+  color: #d82544;
+}
+
 .masthead .masthead-content .input-group-newsletter input {
   height: auto;
   font-size: 1rem;
