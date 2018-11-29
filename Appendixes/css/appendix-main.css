@@ -573,3 +573,8 @@ textarea.input100 {
 .brief {
   text-align: justify;
 }
+
+.thankyou_message {
+  font-family: Poppins-Bold;
+  padding-top: 44px;
+}
