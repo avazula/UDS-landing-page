@@ -249,3 +249,7 @@ img {
 .input {
   font-weight: 300 !important;
 }
+
+.external-links {
+  padding-top: 22px;
+}
