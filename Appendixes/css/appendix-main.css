@@ -129,7 +129,7 @@ button:hover {
 }
 
 iframe {
-	border: none !important;
+  border: none !important;
 }
 
 
@@ -183,11 +183,6 @@ iframe {
 
 /*------------------------------------------------------------------
 [ Form ]*/
-
-.bite {
-  padding-bottom: 44px;
-}
-
 .contact100-form {
   width: 100%;
 }
@@ -572,9 +567,14 @@ textarea.input100 {
 
 .brief {
   text-align: justify;
+  padding-bottom: 44px;
 }
 
 .thankyou_message {
   font-family: Poppins-Bold;
   padding-top: 44px;
+}
+
+.embed-responsive-item {
+  padding-bottom: 44px;
 }
