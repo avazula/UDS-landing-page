@@ -253,3 +253,10 @@ img {
 /* .external-links {
   padding-top: 22px;
 } */
+
+.masthead .masthead-content img {
+  all: unset;
+  max-width: 100%;
+  height: auto;
+
+}
