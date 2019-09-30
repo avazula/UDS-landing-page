@@ -29,8 +29,8 @@ else{ // On envoie à l'adresse par défaut
 $copie = 'oui'; // 'oui' ou 'non'
 
 // Messages de confirmation du mail
-$message_envoye = "Votre message nous est bien parvenu ! <a href=\"./index.html\"> Retour au site</a>.";
-$message_non_envoye = "L'envoi du mail a échoué, veuillez réessayer SVP. <a href=\"./index.html#contact\"> Retour au site</a>.";
+$message_envoye = "Votre message nous est bien parvenu ! <a href=\"../index.html\"> Retour au site</a>.";
+$message_non_envoye = "L'envoi du mail a échoué, veuillez réessayer SVP. <a href=\"../index.html#contact\"> Retour au site</a>.";
 
 // Messages d'erreur du formulaire
 $message_erreur_formulaire = "Vous devez d'abord <a href=\"./index.html#Contact\">envoyer le formulaire</a>.";
